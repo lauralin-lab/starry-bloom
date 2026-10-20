@@ -1,0 +1,1 @@
+window.AUDITION_MAP=[{"pitch": 42, "offset": 0.03}, {"pitch": 49, "offset": 3.53}, {"pitch": 54, "offset": 7.03}, {"pitch": 57, "offset": 10.53}, {"pitch": 61, "offset": 14.03}, {"pitch": 64, "offset": 17.53}, {"pitch": 66, "offset": 21.03}, {"pitch": 69, "offset": 24.53}, {"pitch": 73, "offset": 28.03}, {"pitch": 76, "offset": 31.53}, {"pitch": 78, "offset": 35.03}];

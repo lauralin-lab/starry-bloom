@@ -1,0 +1,5 @@
+Ludwig van Beethoven: Piano Sonata No.14, Op.27 No.2, movements I and II.
+MIDI edition: Stewart Holmes / Mutopia Project, Mutopia-2007/02/11-276. Source edition: Berners 1908, edited by A. Winterberger.
+Source: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=276
+License: Creative Commons Attribution-ShareAlike 2.5, https://creativecommons.org/licenses/by-sa/2.5/
+Changes: local sampled-piano rendering, note-role annotation for visuals, release adjustment, coincident unison merging; movement II performed at quarter note = 80. These score-derived files and rendered performances are distributed under the same CC BY-SA 2.5 license. No endorsement implied.
